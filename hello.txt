@@ -1,8 +1,5 @@
 Git is extremely powerful.
 This is the feature branch.
-<<<<<<< HEAD
 Line from master branch.
-=======
 Line from experiment branch.
->>>>>>> experiment
 Change made directly on GitHub
