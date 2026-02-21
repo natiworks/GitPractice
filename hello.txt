@@ -2,4 +2,3 @@ Git is extremely powerful.
 This is the feature branch.
 Line from master branch.
 Line from experiment branch.
-Change made directly on GitHub
